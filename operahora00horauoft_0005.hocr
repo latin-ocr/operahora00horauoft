@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operahora00horauoft_0005.png"; bbox 0 0 1312 2222; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 293 879 1162 1152">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 293 879 1162 1152">
+     <span class='ocr_line' id='line_1_1' title="bbox 543 879 924 944; baseline -0.005 -12"><span class='ocrx_word' id='word_1_1' title='bbox 543 879 809 944; x_wconf 68' lang='lat' dir='ltr'><em>Bfovfs‘r</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 850 881 924 934; x_wconf 77' lang='lat' dir='ltr'><em>OF</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 293 985 1162 1042; baseline 0.002 -4"><span class='ocrx_word' id='word_1_3' title='bbox 293 985 411 1039; x_wconf 73' lang='lat' dir='ltr'><em>Rev.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 452 986 646 1039; x_wconf 78' lang='grc' dir='ltr'><em>ΟΑΝΟΝ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 683 989 982 1042; x_wconf 78' lang='grc' dir='ltr'><em>8οΑ001Νο.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1026 989 1072 1040; x_wconf 88' lang='lat'><em>0.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1116 991 1162 1040; x_wconf 85' lang='lat' dir='ltr'><em>D.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 492 1095 966 1152; baseline 0.002 -5"><span class='ocrx_word' id='word_1_8' title='bbox 492 1095 759 1152; x_wconf 76' lang='lat' dir='ltr'><em>TOROMTO.</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 827 1098 966 1150; x_wconf 81' lang='lat'><em>7907.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
